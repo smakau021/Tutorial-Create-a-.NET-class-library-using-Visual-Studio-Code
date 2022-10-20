@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sphe/QA/ClassLibraryProjects/StringLibrary/StringLibrary.csproj": {}
+    "/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/StringLibrary.csproj": {}
   },
   "projects": {
-    "/home/sphe/QA/ClassLibraryProjects/StringLibrary/StringLibrary.csproj": {
+    "/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/StringLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sphe/QA/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
+        "projectUniqueName": "/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
         "projectName": "StringLibrary",
-        "projectPath": "/home/sphe/QA/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
+        "projectPath": "/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
         "packagesPath": "/home/sphe/.nuget/packages/",
-        "outputPath": "/home/sphe/QA/ClassLibraryProjects/StringLibrary/obj/",
+        "outputPath": "/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sphe/.nuget/NuGet/NuGet.Config"

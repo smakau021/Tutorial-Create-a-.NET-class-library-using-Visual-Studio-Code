@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xBFNFPiRCdvLygMdo6jm2QsY0BImdDNdmT+/+GvkYVyTzdsxAad9KYhED4j+jrXRVp1VnGPq8lEAElsWARB/KQ==",
+  "dgSpecHash": "rS1V6fE8ZaYXwhvAbY9bJ/Z+TWuZvwMJx8iARvuTqyysriGesav9c1FmBEJexyqVOc59wMm+0hbDItb0FkBRJg==",
   "success": true,
-  "projectFilePath": "/home/sphe/QA/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
+  "projectFilePath": "/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/StringLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
