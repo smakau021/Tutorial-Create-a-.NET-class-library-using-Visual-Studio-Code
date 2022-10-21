@@ -18,3 +18,7 @@
 /home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.dll
 /home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/refint/StringLibrary.dll
 /home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/StringLibrary.pdb
+/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/bin/Debug/net6.0/StringLibrary.deps.json
+/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/bin/Debug/net6.0/StringLibrary.dll
+/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/bin/Debug/net6.0/StringLibrary.pdb
+/home/sphe/QA/Tutorial-Create-a-.NET-class-library-using-Visual-Studio-Code/ClassLibraryProjects/StringLibrary/obj/Debug/net6.0/ref/StringLibrary.dll
